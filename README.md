@@ -1,5 +1,7 @@
 # 🥨 Farhadskaya Bulochka — Telegram Mini App + Admin Panel
 
+> 🤖 **Telegram Bot:** [@Farhadskaya_Bulochka_1_Bot](https://t.me/Farhadskaya_Bulochka_1_Bot)
+
 Farhadskaya Bulochka (Family Bakery, est. 1996) uchun buyurtma va yetkazib berish tizimi.
 
 Katalog, narxlar va rasmlar Instagram menyusidan olingan — [docs/INSTAGRAM-TAHLIL.md](docs/INSTAGRAM-TAHLIL.md).
